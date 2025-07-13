@@ -1,0 +1,5 @@
+drf-nested-routers
+Django>=4.0
+djangorestframework
+djangorestframework-simplejwt
+drf-nested-routers
